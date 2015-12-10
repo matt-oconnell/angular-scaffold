@@ -8,8 +8,8 @@ myApp.directive('countdown', function countdown() {
 			$scope.time = 'Time goes here!';
 		},
 		//
-		link: function(scope, element, attrs) {
-			element.css('color', 'green');
+		link: function(scope, element) {
+			element.css('color', 'blue');
 		}
 	}
 });

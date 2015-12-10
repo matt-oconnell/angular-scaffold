@@ -28,8 +28,8 @@
               <file leaf-file-name="directives.js" pinned="false" current-in-tab="true">
                 <entry file="file://$USER_HOME$/Sites/sandbox/current/angular-scaffold/scripts/directives.js">
                   <provider selected="true" editor-type-id="text-editor">
-                    <state vertical-scroll-proportion="0.35774058">
-                      <caret line="9" column="10" selection-start-line="9" selection-start-column="10" selection-end-line="9" selection-end-column="10" />
+                    <state vertical-scroll-proportion="0.39748955">
+                      <caret line="10" column="37" selection-start-line="10" selection-start-column="37" selection-end-line="10" selection-end-column="37" />
                       <folding />
                     </state>
                   </provider>
@@ -88,9 +88,9 @@
         <option value="$USER_HOME$/Sites/sandbox/current/angular-scaffold/index.html" />
         <option value="$USER_HOME$/Sites/sandbox/current/angular-scaffold/templates/page1.html" />
         <option value="$USER_HOME$/Sites/sandbox/current/angular-scaffold/templates/countdown.html" />
-        <option value="$USER_HOME$/Sites/sandbox/current/angular-scaffold/scripts/directives.js" />
         <option value="$USER_HOME$/Sites/sandbox/current/angular-scaffold/scripts/factories.js" />
         <option value="$USER_HOME$/Sites/sandbox/current/angular-scaffold/.gitignore" />
+        <option value="$USER_HOME$/Sites/sandbox/current/angular-scaffold/scripts/directives.js" />
       </list>
     </option>
   </component>
@@ -294,14 +294,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/Sites/sandbox/current/angular-scaffold/scripts/directives.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.35774058">
-          <caret line="9" column="10" selection-start-line="9" selection-start-column="10" selection-end-line="9" selection-end-column="10" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$USER_HOME$/Sites/sandbox/current/angular-scaffold/templates/page1.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.19791667">
@@ -354,6 +346,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="6" selection-start-line="0" selection-start-column="6" selection-end-line="0" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Sites/sandbox/current/angular-scaffold/scripts/directives.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.39748955">
+          <caret line="10" column="37" selection-start-line="10" selection-start-column="37" selection-end-line="10" selection-end-column="37" />
           <folding />
         </state>
       </provider>
